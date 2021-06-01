@@ -28,5 +28,5 @@ requests==2.18.4
 simplejson==3.11.1
 six==1.10.0               # via anymarkup-core, configobj, nltk, python-utils
 toml==0.9.2               # via anymarkup
-urllib3==1.22             # via requests
+urllib3==1.26.5             # via requests
 xmltodict==0.11.0
