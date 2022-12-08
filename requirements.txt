@@ -8,7 +8,7 @@ anymarkup-core==0.7.1     # via anymarkup
 anymarkup==0.7.0
 beautifulsoup4==4.6.0     # via bs4
 bs4==0.0.1
-certifi==2017.7.27.1      # via requests
+certifi==2022.12.7      # via requests
 chardet==3.0.4            # via requests
 click==6.7
 configobj==5.0.6          # via anymarkup
